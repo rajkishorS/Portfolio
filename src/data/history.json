@@ -1,0 +1,30 @@
+
+[
+    {
+      "role": "Batchelor of Engineering",
+      "organisation": "GTU",
+      "startDate": "2022",
+      "endDate": "2025",
+      "experiences": ["Electronic and Communication Engineering"],
+      "imageSrc": "history/gec.png"
+    },
+    {
+      "role": "Diploma",
+      "organisation": "SBTE",
+      "startDate": "2018",
+      "endDate": "2021",
+      "experiences": ["Electronic and Communication Engineering"],
+      "imageSrc": "history/sbte.png"
+    },
+    {
+      "role": "Matriculation",
+      "organisation": "BSEB",
+      "startDate": "2017",
+      "endDate": " 2018",
+      "experiences": [
+        
+      ],
+      "imageSrc": "history/bseb.jpg"
+    }
+  ]
+  
